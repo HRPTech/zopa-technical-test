@@ -1,4 +1,5 @@
 #Zopa Technical Test
+
 Application to calculate the best possible rate for a Loan using quotes from different users.
 
 
